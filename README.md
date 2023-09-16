@@ -1,11 +1,6 @@
 # Flutix
 > Watch movie in theater much easier 
 
-
-## Notes
-**In the near future, it will be migrated to the latest version with getx state management and uploaded to the playstore.**
-
-
 ## Description
 Flutix is ​​a mobile application (iOS & Android) that helps people to buy tickets to watch online through their mobile phones. Flutix also uses the data collection method to display movies that match the user's profile.
 
@@ -45,3 +40,13 @@ Flutix is ​​a mobile application (iOS & Android) that helps people to buy ti
 
 ## Credit
 Build With Angga (BWA Course)
+
+## Certificate Course
+You can see here as proof that I have completed the lessons from BuildWithAngga Course. Enter code **2z0lT3S8gD** on this website <a href="https://buildwithangga.com/cek-sertifikat">BuildWithAngga Certificate Checker</a>
+
+![Screenshot Certificate](https://github.com/Nugrahaz/bwa_flutix/assets/69227102/11dd0c3b-0900-4754-b417-f165af2ca44c)
+
+
+
+## Notes
+**In the near future, it will be migrated to the latest version with getx state management and uploaded to the playstore.**
