@@ -26,7 +26,7 @@ Flutix is ​​a mobile application (iOS & Android) that helps people to buy ti
 
 ## Installing
 
-- git clone https://github.com/abuazis/Flutix.git
+- git clone https://github.com/nugrahaz/bwa_flutix.git
 - get themovie db api key in <a href="https://developers.themoviedb.org/3">The Movie DB Developer</a>
 - put api key in  **lib/shared/shared_value.dart**
   ```dart
